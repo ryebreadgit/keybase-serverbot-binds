@@ -2,3 +2,6 @@
 /cmd/exec/log/**/*
 #Ignore data
 /cmd/exec/data/**/*
+
+#go files
+/go.sum
