@@ -1,0 +1,4 @@
+#Ignore logs
+/cmd/exec/log/**/*
+#Ignore data
+/cmd/exec/data/**/*

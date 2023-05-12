@@ -1,0 +1,10 @@
+{
+  "base_path": "./sheet-music/",
+  "sheetable": {
+    "url": "",
+    "credentials": {
+      "email": "",
+      "password": ""
+    }
+  }
+}

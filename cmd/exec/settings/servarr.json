@@ -1,0 +1,11 @@
+{
+  "web-addresses": {
+    "radarr-url": "",
+    "sondarr-url": ""
+  },
+  "credentials": {
+    "omdb-api-key": "",
+    "radarr-api-key": "",
+    "sonarr-api-key": ""
+  }
+}

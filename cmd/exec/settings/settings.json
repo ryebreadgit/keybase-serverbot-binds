@@ -1,0 +1,20 @@
+{
+  "keybase-bot-username": "serverbot",
+  "users": [
+    {
+      "username": "admin",
+      "permissions": [
+        "all",
+        "servarr",
+		"musescore"
+      ]
+    },
+    {
+      "username": "user",
+      "permissions": [
+        "servarr",
+		"musescore"
+      ]
+    }
+  ]
+}
